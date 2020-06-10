@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "A7h-lO-6b5"; */
+"A7h-lO-6b5.text" = "Celzijevih stupnjeva";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "EJ9-g2-bPx"; */
+"EJ9-g2-bPx.title" = "Mapa";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "Tji-74-9tR"; */
+"Tji-74-9tR.text" = "100";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "eW8-KN-fG3"; */
+"eW8-KN-fG3.text" = "je zapravo";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "rnW-vv-OoA"; */
+"rnW-vv-OoA.text" = "stupnjeva Fahrenheita";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "wEa-6G-LuB"; */
+"wEa-6G-LuB.title" = "Konverzija";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "wJe-uZ-7L2"; */
+"wJe-uZ-7L2.placeholder" = "vrijednost";
